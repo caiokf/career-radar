@@ -2,11 +2,9 @@ title = 'Caio Kinzel Filho, 2016';
 
 data = {
     'Languages': {
-        'Java': 4,
-        'Javascript' : 2,
-        'Python': 1,
-        'Ruby': 1,
-        'Shell Script': 3,
+        'C#': 4,
+        'Javascript' : 4,
+        'F#': 2
     },
 
     'Tools': {
