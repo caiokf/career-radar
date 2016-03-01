@@ -1,4 +1,4 @@
-title = 'Filipe Esperandio, July 2011';
+title = 'Caio Kinzel Filho, 2016';
 
 data = {
     'Languages': {
@@ -43,5 +43,3 @@ data = {
         'iOS': 1,
     }
 };
-
-
